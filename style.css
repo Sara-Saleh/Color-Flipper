@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #f1f5f8;
+  }
+  
+  .container {
+    text-align: center;
+    margin: 3% 0;
+  }
+  
+  .container .btn {
+    padding: 5px;
+    margin: 20px 0;
+  }
+  
+  .container h2 {
+    color: white;
+    background-color: black;
+    padding: 15px;
+    width: fit-content;
+    margin-left: 40%;
+  }
+  
